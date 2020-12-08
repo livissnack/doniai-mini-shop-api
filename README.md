@@ -1,15 +1,15 @@
 
-<h1 align="center">Doniai Mini Photo Api</h1>
+<h1 align="center">Doniai Mini Shop Api</h1>
 
-<p align="center">:rainbow: 基于Manaphp的 小程序接口项目。</p>
+<p align="center">:rainbow: 基于Manaphp的 小程序商城接口项目。</p>
 
-[![Build Status](https://travis-ci.org/livissnack/doniai-mini-api.svg?branch=main)](https://travis-ci.org/livissnack/weather)
+[![Build Status](https://travis-ci.org/livissnack/doniai-mini-shop-api.svg?branch=main)](https://travis-ci.org/livissnack/weather)
 
 ## 安装
 
 ```sh
-$ git clone git@github.com:livissnack/doniai-mini-photo-api.git
-$ cd doniai-mini-photo-api
+$ git clone git@github.com:livissnack/doniai-mini-shop-api.git
+$ cd doniai-mini-shop-api
 $ composer install
 $ php manaphp.php serve
 ```
